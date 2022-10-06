@@ -1,3 +1,2 @@
-
-
-mplayer
+#!/bin/bash
+mplayer star wars episode 4
